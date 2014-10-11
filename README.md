@@ -25,10 +25,9 @@ Or install it yourself as:
 ## Usage
 
 Add to your Rakefile to access rake tasks:
+    
+    require 'echosign'
 
-    ```
-    Echosign.load_tasks
-    ```
 
 
 ## Contributing
