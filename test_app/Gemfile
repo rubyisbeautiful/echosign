@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'byebug'
+gem 'echosign', path: '..'
+gem 'i18n'
+gem 'rake'

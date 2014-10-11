@@ -1,0 +1,13 @@
+# This should not change very often, but as always, check with Adobe Echosign
+# developer documentation for the latest
+# https://www.echosign.adobe.com/en/products/echosign-api-dev-center.html
+api_endpoint: https://secure.echosign.com/api/rest/v2
+
+# Your API key
+api_key: '123'
+
+# Your Application ID
+application_id: 'my_app'
+
+# Your Application Secret
+application_secret: 'shh'
